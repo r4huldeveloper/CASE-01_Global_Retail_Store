@@ -1,0 +1,148 @@
+country,avg_delivery_days,total_orders
+Bahrain,2.0,1
+Chad,2.0,1
+Guinea-Bissau,2.44,4
+Estonia,2.46,7
+Swaziland,2.5,2
+Guadeloupe,2.63,4
+Djibouti,2.67,5
+Namibia,2.78,5
+Liberia,2.8,7
+Eritrea,3.0,1
+Turkmenistan,3.08,16
+Central African Republic,3.14,4
+Kazakhstan,3.27,53
+Martinique,3.32,11
+Azerbaijan,3.34,20
+Qatar,3.37,6
+Hungary,3.38,28
+Uruguay,3.38,15
+Tanzania,3.43,73
+Lithuania,3.44,24
+Paraguay,3.5,6
+Lebanon,3.5,8
+Slovakia,3.5,4
+Cambodia,3.56,21
+Israel,3.59,48
+Syria,3.62,16
+Senegal,3.62,56
+Albania,3.63,10
+Zimbabwe,3.64,42
+Russia,3.64,191
+Bosnia and Herzegovina,3.65,8
+Lesotho,3.67,3
+Sierra Leone,3.67,6
+Libya,3.67,18
+Canada,3.68,201
+Ecuador,3.68,24
+Sri Lanka,3.71,4
+Niger,3.72,17
+Bolivia,3.75,26
+Spain,3.75,429
+Democratic Republic of the Congo,3.75,187
+South Africa,3.75,222
+Bulgaria,3.77,41
+Taiwan,3.79,5
+South Korea,3.8,82
+Vietnam,3.81,122
+Croatia,3.81,20
+Argentina,3.83,191
+Chile,3.84,80
+Barbados,3.85,13
+Algeria,3.85,93
+Moldova,3.85,16
+Tunisia,3.85,9
+Ethiopia,3.86,4
+Honduras,3.88,349
+New Zealand,3.88,315
+China,3.89,925
+Nigeria,3.9,410
+Czech Republic,3.9,36
+Kenya,3.9,55
+Norway,3.91,37
+Zambia,3.91,46
+Togo,3.91,20
+Mozambique,3.91,49
+Papua New Guinea,3.91,9
+Brazil,3.91,784
+Benin,3.91,23
+Dominican Republic,3.92,389
+Pakistan,3.93,123
+Belgium,3.93,71
+France,3.94,1222
+Australia,3.94,1420
+Turkey,3.96,632
+Iran,3.96,312
+United States,3.96,5009
+Myanmar (Burma),3.96,58
+Singapore,3.96,72
+India,3.97,785
+Mexico,3.97,1329
+Indonesia,3.98,698
+Austria,3.98,172
+Ireland,3.99,51
+Morocco,3.99,211
+Nepal,4.0,6
+Yemen,4.0,11
+Netherlands,4.0,204
+Italy,4.01,529
+Ukraine,4.01,209
+Cuba,4.01,369
+Cameroon,4.02,66
+Egypt,4.02,239
+Poland,4.04,116
+Nicaragua,4.04,315
+Uzbekistan,4.04,21
+Japan,4.04,128
+Mali,4.05,22
+Thailand,4.06,138
+Germany,4.07,907
+United Arab Emirates,4.07,6
+Iraq,4.08,198
+Haiti,4.09,42
+United Kingdom,4.1,775
+Jordan,4.1,17
+Romania,4.1,90
+Trinidad and Tobago,4.1,13
+Peru,4.11,73
+Guinea,4.11,10
+Finland,4.12,34
+Malaysia,4.13,82
+Madagascar,4.14,27
+Guatemala,4.15,266
+Sweden,4.18,100
+Panama,4.18,199
+El Salvador,4.18,375
+Rwanda,4.19,17
+Angola,4.2,60
+Kyrgyzstan,4.2,17
+Uganda,4.22,19
+Saudi Arabia,4.23,163
+Philippines,4.24,326
+Colombia,4.26,163
+Cote d'Ivoire,4.26,47
+Bangladesh,4.26,82
+Venezuela,4.27,96
+Georgia,4.27,18
+Gabon,4.29,5
+Portugal,4.3,37
+Republic of the Congo,4.33,2
+Ghana,4.38,60
+Belarus,4.4,42
+Switzerland,4.4,40
+Sudan,4.43,40
+Denmark,4.49,31
+Afghanistan,4.49,26
+Mongolia,4.51,13
+Somalia,4.56,32
+Slovenia,4.67,2
+Hong Kong,4.71,9
+Montenegro,4.75,2
+Mauritania,4.9,8
+Burundi,5.0,2
+Equatorial Guinea,5.0,1
+Tajikistan,5.0,2
+Jamaica,5.03,15
+Macedonia,5.25,3
+Armenia,5.33,2
+South Sudan,5.5,2
