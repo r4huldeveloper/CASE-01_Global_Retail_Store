@@ -43,6 +43,3 @@ This project identifies **$660K in direct profit leakage** within a global ecomm
 * **Discount Control:** Proposed a tiered discount structure to prevent margin erosion on high-volume items.
 
 ---
-
-## 👤 Contact
-**r4huldeveloper** *Data Analyst | BI Specialist*
