@@ -1,47 +1,48 @@
-📊 Global Ecommerce Store Analysis & Profit Recovery
-📌 Project Overview
-This project focuses on identifying and mitigating Profit Leakage within a Global Ecommerce store. By analyzing sales data, I developed a diagnostic dashboard to pinpoint high-discount products and regions underperforming against strategic profit targets.
+# 📊 Global Ecommerce Profit Recovery Dashboard
 
-The primary goal was to simulate a 15% Target Margin Floor to visualize "Profit at Risk" and provide actionable insights for executive decision-making.
+## 🚀 Executive Summary
+This project identifies **$660K in direct profit leakage** within a global ecommerce dataset. I developed a diagnostic Power BI dashboard to simulate a **15% Margin Floor policy**, allowing executives to pinpoint exactly where high discounting is killing profitability.
 
-🛠️ Tech Stack
-Data Source: Global Ecommerce Sales Data (CSV)
+---
 
-SQL: Data cleaning, transformation, and complex reporting scripts
+## 🛠️ Technical Workflow
+* **SQL:** Cleaned and transformed raw sales data; built complex queries to calculate regional profit margins.
+* **Power BI:** Engineered a dynamic dashboard using **DAX**, **What-If Parameters**, and **Conditional Formatting**.
+* **GitHub:** Maintained a professional repository structure for stakeholder transparency.
 
-Power BI: Dynamic dashboarding with What-If parameters and conditional formatting
+---
 
-GitHub: Version control and project documentation
+## 📁 Repository Structure
+| Folder | Description |
+| :--- | :--- |
+| 📂 **01_DATA** | Raw and processed CSV datasets. |
+| 📂 **02_SQL_SCRIPTS** | Data cleaning and transformation scripts. |
+| 📂 **03_SQL_REPORTS** | Queries for business logic and margin calculations. |
+| 📂 **04_DASHBOARD** | Power BI (.pbix) files and visual exports. |
+| 📂 **05_RECOMMENDATION** | Final business insights and recovery strategies. |
 
-📂 Project Structure
-01_DATA: Contains raw and cleaned datasets
+---
 
-02_SQL_SCRIPTS: SQL queries for data preparation
+## 💡 Key Business Insights
+### 1. Profit at Risk Analysis
+* Identified **$659.82K in losses** originating from products performing below the strategic 15% margin threshold.
+* Created a **"Risk Indicator"** KPI card that dynamically updates based on policy changes.
 
-03_SQL_REPORTS: Generated reports and business logic queries
+### 2. Discount Correlation (Scatter Plot)
+* Discovered a direct correlation between **high discounting (>20%)** and **negative profit** in the Furniture category.
+* Visualized outlier products that are "Profit Villains" using scatter plot trend lines.
 
-04_DASHBOARD: Power BI (.pbix) files and dashboard screenshots
+### 3. Strategy Simulator
+* Built a **Target Margin Slider** that allows managers to simulate the impact of different profit floors on the bottom line.
+* Automated **Red-Flag Highlighting** in the product table for immediate executive action.
 
-05_RECOMMENDATION: Final business insights and profit recovery strategies
+---
 
-🚀 Key Features & Insights
-1. Profit Recovery Diagnostic (Tab 2)
-Profit At Risk: Identified approximately -$660K in direct losses from products performing below the 15% margin threshold.
+## 📈 Impact & Recommendations
+* **Policy Change:** Recommended a hard floor of 15% margin for the Furniture segment to recover $200K+ annually.
+* **Discount Control:** Proposed a tiered discount structure to prevent margin erosion on high-volume items.
 
-Dynamic Simulations: Integrated a Target Margin Floor parameter to allow stakeholders to simulate different policy impacts.
+---
 
-Leakage Correlation: Used Scatter Plot analysis to visualize how high discounting directly impacts profitability across different categories.
-
-Conditional Highlighting: Automated row highlighting for products failing to meet strategic margin targets.
-
-2. Loss Driving Identification
-Pinpointed the Furniture category as a primary source of leakage with an average margin significantly below Technology and Office Supplies.
-
-Listed Top 5 Loss-Driving Products to prioritize inventory and pricing reviews.
-
-📈 Business Impact
-Provided a clear roadmap to recover leaked profit by identifying specific products for pricing adjustments.
-
-Enabled real-time "What-If" analysis for regional managers to set realistic profit floors.
-
-Reduced the time-to-insight for identifying underperforming stock units (SKUs).
+## 👤 Contact
+**r4huldeveloper** *Data Analyst | BI Specialist*
